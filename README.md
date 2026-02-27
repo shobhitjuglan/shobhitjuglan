@@ -22,7 +22,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center">
+<div align="center">
 
 <!-- Row 1 -->
 <a href="https://aws.amazon.com" target="_blank">
@@ -113,4 +113,4 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" style="margin:10px;" />
 </a>
 
-</p>
+</div>
