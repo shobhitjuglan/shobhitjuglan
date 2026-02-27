@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shobhit Juglan</h1>
-<h3 align="center">A passionate problem solver and over-thinker</h3>
+<h3 align="center">A passionate problem solver</h3>
 
 
-- 🔭 I’m currently working on **Some web3 project - [Redacted :)]**
+- 🔭 I’m currently working on **[Soneiyum - Crypto wallet](https://soneiyum.vercel.app/)**
 
 - 🌱 I’m currently learning **Web3, AI tools, Cooking**
 
