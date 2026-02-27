@@ -35,7 +35,7 @@
 
 ## 📊 GitHub Stats
 
-p align="center">
+<p align="center">
   <!-- Core GitHub Stats -->
   <a href="https://github.com/shobhitjuglan">
     <img src="https://github-readme-stats-fast.vercel.app/api?username=shobhitjuglan&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
@@ -44,7 +44,7 @@ p align="center">
 
 <p align="center">
   <!-- Top Languages -->
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=shobhitjuglan&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
