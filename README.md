@@ -36,8 +36,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shobhitjuglan&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shobhitjuglan&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  [![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=shobhitjuglan&show_icons=true&theme=tokyonight)](https://github.com/shobhitjuglan)
 </p>
 
 ---
