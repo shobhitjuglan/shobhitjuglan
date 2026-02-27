@@ -8,7 +8,7 @@
 
 - 📝 I write articles on [https://medium.com/@shojug111](https://medium.com/@shojug111)
 
-- 💬 Ask me about **Cybersecurity, Web3, Cloud backend, badminton 🏸**
+- 💬 Ask me about **Cybersecurity, Web3, Cloud backend - AWS 2x Certified, badminton 🏸**
 
 - 📫 How to reach me **https://www.linkedin.com/in/shobhitjuglan/**
 
