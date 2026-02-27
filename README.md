@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **[Soneiyum - Crypto wallet](https://soneiyum.vercel.app/)**
 
-- 🌱 I’m currently learning **Web3, AI tools, Cooking**
+- 🌱 I’m currently learning **Web3, AI tools, Cooking, Snowboarding**
 
 - 📝 I write articles on [https://medium.com/@shojug111](https://medium.com/@shojug111)
 
