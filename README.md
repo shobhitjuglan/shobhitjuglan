@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shobhit Juglan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Web3+Builder;AWS+Certified+Developer;Cybersecurity+Enthusiast;Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Web3+Builder;AWS+Certified+Developer;Cybersecurity+Enthusiast" />
 </p>
 
 - 🔭 I’m currently working on **[Soneiyum - Crypto wallet](https://soneiyum.vercel.app/)**
@@ -35,12 +35,11 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <!-- Core GitHub Stats -->
+<!-- <p align="center">
   <a href="https://github.com/shobhitjuglan">
     <img src="https://github-readme-stats-fast.vercel.app/api?username=shobhitjuglan&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   </a>
-</p>
+</p> -->
 
 <p align="center">
   <!-- Top Languages -->
