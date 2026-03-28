@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Web3+Builder;AWS+Certified+Developer;Cybersecurity+Enthusiast" />
 </p>
 
-- 🔭 I’m currently working on **[Soneiyum - Crypto wallet](https://soneiyum.vercel.app/)**
+- 🔭 I’m currently working on ~
 
 - 🌱 I’m currently learning **Web3, AI tools, Cooking, Snowboarding**
 
